@@ -63,17 +63,6 @@ gTextures = {
     ['tiles'] = love.graphics.newImage('graphics/sheet.png'),
     ['entities'] = love.graphics.newImage('graphics/entities.png'),
     ['cursor'] = love.graphics.newImage('graphics/cursor.png'),
-
-    ['aardart-back'] = love.graphics.newImage('graphics/pokemon/aardart-back.png'),
-    ['aardart-front'] = love.graphics.newImage('graphics/pokemon/aardart-front.png'),
-    ['agnite-back'] = love.graphics.newImage('graphics/pokemon/agnite-back.png'),
-    ['agnite-front'] = love.graphics.newImage('graphics/pokemon/agnite-front.png'),
-    ['anoleaf-back'] = love.graphics.newImage('graphics/pokemon/anoleaf-back.png'),
-    ['anoleaf-front'] = love.graphics.newImage('graphics/pokemon/anoleaf-front.png'),
-    ['bamboon-back'] = love.graphics.newImage('graphics/pokemon/bamboon-back.png'),
-    ['bamboon-front'] = love.graphics.newImage('graphics/pokemon/bamboon-front.png'),
-    ['cardiwing-back'] = love.graphics.newImage('graphics/pokemon/cardiwing-back.png'),
-    ['cardiwing-front'] = love.graphics.newImage('graphics/pokemon/cardiwing-front.png'),
 }
 
 gFrames = {

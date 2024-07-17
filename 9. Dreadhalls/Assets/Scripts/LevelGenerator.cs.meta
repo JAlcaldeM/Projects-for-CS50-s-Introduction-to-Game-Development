@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: db3ffa0b6d58a4a0fbfdf37a50317e6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - roomText: {fileID: 5414844949336414934, guid: b274e1543e0cdad4c85ae32b2bb06a6f,
+      type: 3}
+  - floorPrefab: {instanceID: 0}
+  - wallPrefab: {instanceID: 0}
+  - ceilingPrefab: {instanceID: 0}
+  - characterController: {instanceID: 0}
+  - floorParent: {instanceID: 0}
+  - wallsParent: {instanceID: 0}
+  - pickup: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
